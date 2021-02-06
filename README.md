@@ -1,6 +1,6 @@
-# first_flutter_app
+# Food Recipe App - Flutter 
 
-A new Flutter application.
+
 
 ## Getting Started
 
